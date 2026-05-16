@@ -1,9 +1,8 @@
-# Asavexi
-- **Mecani:** Mecani es una app móvil para ayudar a los conductores a encontrar talleres, reservar y llevar un seguimiento de la reparación del vehículo.
+# Nombre del Equipo
+- **Nombre del Proyecto:** [Breve descripción del proyecto]
 - **Integrantes:**
-  - [Carlos Eduardo Torres Manzanares] — [Frontend]
-  - [Yasser Rugama] — [Backend & comunicador]
-  - [Carlos Alfaro] — [Backend]
-  - [María Reyes]
-- **Stack Tecnológico:** [Flutter, Django, Python, Dart, PostgreSQL, Docker]
-- **Repositorio del Proyecto:** https://github.com/charly05tr/mecani-backend
+  - [Nombre Completo] — [Rol: Backend / Frontend / UX-UI / Negocios]
+  - [Nombre Completo] — [Rol]
+  - [Nombre Completo] — [Rol]
+- **Stack Tecnológico:** [Ej. Node.js, Python, Flutter, etc.]
+- **Repositorio del Proyecto:** https://github.com/[usuario]/[repo]
