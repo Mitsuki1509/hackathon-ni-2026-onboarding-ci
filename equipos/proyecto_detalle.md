@@ -1,4 +1,4 @@
-# Nombre del Equipo
+# Hogari
 - **Nombre del Proyecto:** [Hogari, aplicaion progresiva basada en servicios adomicilio]
 - **Integrantes:**
   - [Sherly Escoto] — [Diseño]
