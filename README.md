@@ -2,31 +2,31 @@
 
 Bienvenido al repositorio oficial de infraestructura y registro para la fase de incubación del **Hackathon Nicaragua 2026**.
 
-Este no es un curso de teoría. Es una operación de ingeniería. Si tu equipo no tiene un producto desplegado en un servidor real con una URL pública al final de este programa, no tienes un producto: tienes un PowerPoint.
+Este espacio ha sido diseñado para acompañar a los equipos en el fortalecimiento de sus capacidades técnicas y asegurar que cada propuesta cuente con una base sólida para su crecimiento.
 
 ## 🎯 Objetivo de la Fase I
-Establecer la línea base tecnológica, dominar Git/GitHub como estándar de industria y aniquilar la excusa del hardware utilizando **GitHub Codespaces**.
+Establecer la línea base tecnológica, fortalecer el uso de Git/GitHub como estándar de la industria y facilitar el acceso a entornos de desarrollo profesionales mediante **GitHub Codespaces**, permitiendo que todos los integrantes cuenten con las mismas herramientas sin importar las limitaciones locales de hardware.
 
-## 📋 Proceso de Registro (Obligatorio)
-Para registrar a tu equipo, debes seguir el estándar de ingeniería profesional: **un Pull Request**. No aceptamos correos, no aceptamos formularios de Google.
+## 📋 Proceso de Registro Sugerido
+Para integrar a tu equipo en el flujo de trabajo oficial, recomendamos realizar el registro mediante un **Pull Request**. Este proceso nos permite brindarte retroalimentación técnica inmediata y asegura que la información de tu proyecto esté correctamente versionada.
 
-### Pasos para registrarte:
+### Pasos para registrarte vía GitHub:
 1. **Haz un Fork** de este repositorio.
-2. Abre tu fork en un **GitHub Codespace**.
+2. Abre tu fork en un **GitHub Codespace** (opcional).
 3. Navega a la carpeta `equipos/`.
 4. Copia el archivo `_plantilla.md` y crea uno nuevo con el nombre de tu equipo (ej: `equipos/mi-gran-startup.md`).
-5. Llena la información requerida siguiendo el formato exacto.
+5. Llena la información requerida siguiendo el formato sugerido.
 6. Realiza un **Commit** con un mensaje claro (ej: `feat: registro equipo mi-gran-startup`).
 7. Abre un **Pull Request (PR)** hacia la rama `main` del repositorio original.
-8. Un robot (**GitHub Action**) validará automáticamente si tu registro cumple con el formato.
+8. Un robot (**GitHub Action**) revisará automáticamente si la información cumple con los campos básicos para facilitar el seguimiento.
 
-> [!CAUTION]
-> Si el robot marca tu PR en rojo (❌), el registro NO es válido. Revisa los logs de la acción, corrige tu archivo y haz push nuevamente. El robot volverá a validar.
+> [!TIP]
+> Si el sistema de validación muestra una alerta (❌), revisa los detalles para asegurar que los campos obligatorios estén presentes. Estamos aquí para ayudarte si encuentras dificultades en este paso.
 
-## 🛠️ Herramientas Sugeridas
-- **GitHub Codespaces:** Entorno de desarrollo completo en la nube.
-- **Git:** Control de versiones.
-- **Markdown:** Para documentación técnica.
+## 🛠️ Herramientas de Apoyo
+- **GitHub Codespaces:** Entorno de desarrollo completo y gratuito en la nube.
+- **Git:** Sistema de control de versiones para la gestión colaborativa.
+- **Markdown:** Formato para documentación técnica clara y estructurada.
 
 ---
 *Centro de Innovación — Nicaragua*
