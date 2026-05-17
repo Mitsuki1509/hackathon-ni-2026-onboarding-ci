@@ -1,0 +1,16 @@
+# Nombre del Equipo
+- **Va D' Viaje:** Es una app de viaje turistico interactivo por nicaragua mediante un mapa que notifica al usuario sobre rutas y eventos ocurriendos a su alrededor.
+- **Integrantes:**
+  - Eliu Antonio Nequecheri, Corrales Cabrera — FRONTEND
+  - Erick Mihail, Rojas Martinez — BACKEND
+  - Michael Enrique, Rivera Latino - UX-UI
+  - Elizabeth Raquel, Sandino Romero - Diseño
+  - Oliver Emmanuel, Ortiz Hernandez - Negocios
+- **Stack Tecnológico:**
+  - APP: Typescript + expo/react-native 
+  - DASH: Javascript + react-router
+  - BACK: Java + Spring
+  - DB: Postgresql + Pgspatial
+- **Repositorio del Proyecto:**
+  - https://github.com/PolloUsami/NicaRoute-MOVIL
+  - https://github.com/PolloUsami/nicaroute-sys
