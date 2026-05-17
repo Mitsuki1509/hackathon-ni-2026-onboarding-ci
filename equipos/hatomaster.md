@@ -1,5 +1,5 @@
 # HatoMaster
-- **Nombre del Proyecto:** HatoMaster: Sistema Inteligente de Gestion Ganadera, con soporte offline
+- **Nombre del Proyecto:** HatoMaster — Sistema Inteligente de Gestion Ganadera, con soporte offline
 - **Integrantes:**
   - Elmer Javier Urbina Meneses — Rol: Backend
   - Holman Omar Rugama Perez — Rol: Frontend 
