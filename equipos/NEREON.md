@@ -9,4 +9,4 @@
   - Rutsamy Acevedo - Diseñadora y Comunicadora
   - Emily Sandoval - Marketing
 - **Stack Tecnológico:** Flutter, Dart, Firebase, CodeMagic
-- **Repositorio del Proyecto:** https://github.com/Waltzprogramming/MilpaGrow
+- **Repositorio del Proyecto:** https://github.com/Waltzprogramming/MilpaGrow 
