@@ -1,5 +1,5 @@
 # Hogari
-- **Nombre del Proyecto:** Hogari, aplicación progresiva basada en servicios adomicilio
+- **Nombre del Proyecto:** Hogari, aplicación progresiva basada en servicios a domicilio
 - **Integrantes:**
   - Sherly Escoto — Diseño/Desarrollo
   - Felix Moraga — Marketing/Desarollo
