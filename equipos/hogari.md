@@ -1,5 +1,5 @@
 # Hogari
-- **Nombre del Proyecto:** Hogari, aplicaion progresiva basada en servicios adomicilio
+- **Nombre del Proyecto:** Hogari, aplicación progresiva basada en servicios adomicilio
 - **Integrantes:**
   - Sherly Escoto — Diseño/Desarrollo
   - Felix Moraga — Marketing/Desarollo
@@ -7,5 +7,5 @@
   - Roger Osorio — Desarrollo
   - Isaac Rodriguez — Comunicacion/Desarrollo
 
-- **Stack Tecnológico:** Next.js + NestJS + Supabase + Google Maps (Demo Key)
+- **Stack Tecnológico:** Next.js, NestJS, Supabase, Google Maps (Demo Key)
 - **Repositorio del Proyecto:** https://github.com/Mitsuki1509/Hogari-Backend
